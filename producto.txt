@@ -1,0 +1,2 @@
+1234L;Capuchino;2.5;10
+1243E;Cafe negro;1.0;5
